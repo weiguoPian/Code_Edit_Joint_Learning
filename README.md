@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 ## Running
 
-Before running, please modify "base_path=' ';" to your own path.
+Before running, please modify "base_path=;" in .sh files to your own path.
 
 For CodeBERT, please run
 ```
