@@ -1,9 +1,7 @@
-# current_dir=$(pwd);
-# base_path=$(realpath ../);
-base_path="/home/weiguo/weiguo/MODIT";
+base_path=" "; # Your current path
 
-CODEBERT_PATH="${base_path}/GraphCodeBERT";
-cd ${CODEBERT_PATH};
+GRAPHCODEBERT_PATH="${base_path}/GraphCodeBERT";
+cd ${GRAPHCODEBERT_PATH};
 echo "#############################################################################################";
 echo "Experiment for GraphCodeBERT";
 echo "=============================================================================================";
